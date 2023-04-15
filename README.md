@@ -1,2 +1,3 @@
 # cs301-project
-CS301 Project Online Retail Data
+
+CS301 Project Credit Score Analysis
